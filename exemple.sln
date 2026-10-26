@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exemple", "exemple\exemple.csproj", "{CDA20966-A123-49A9-A43A-6E5915C841E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heritage", "heritage\heritage.csproj", "{7516C687-C7A6-4157-9B7D-55D8CA197E3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{CDA20966-A123-49A9-A43A-6E5915C841E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDA20966-A123-49A9-A43A-6E5915C841E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDA20966-A123-49A9-A43A-6E5915C841E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7516C687-C7A6-4157-9B7D-55D8CA197E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7516C687-C7A6-4157-9B7D-55D8CA197E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7516C687-C7A6-4157-9B7D-55D8CA197E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7516C687-C7A6-4157-9B7D-55D8CA197E3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
