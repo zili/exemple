@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exemple", "exemple\exemple.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heritage", "heritage\heritage.csproj", "{7516C687-C7A6-4157-9B7D-55D8CA197E3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banque", "Banque\Banque.csproj", "{706034CD-BC01-4647-88B5-DD5D6ECF194E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{7516C687-C7A6-4157-9B7D-55D8CA197E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7516C687-C7A6-4157-9B7D-55D8CA197E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7516C687-C7A6-4157-9B7D-55D8CA197E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{706034CD-BC01-4647-88B5-DD5D6ECF194E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706034CD-BC01-4647-88B5-DD5D6ECF194E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706034CD-BC01-4647-88B5-DD5D6ECF194E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706034CD-BC01-4647-88B5-DD5D6ECF194E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
